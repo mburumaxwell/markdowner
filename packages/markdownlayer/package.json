@@ -63,7 +63,7 @@
     "remark-frontmatter": "5.0.0",
     "remark-gfm": "4.0.0",
     "sharp": "0.33.5",
-    "zod": "3.23.8"
+    "zod": "3.24.1"
   },
   "devDependencies": {
     "@types/estree": "1.0.6",
